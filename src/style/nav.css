@@ -1,0 +1,12 @@
+
+
+nav a{
+  color: black;
+  display: inline-block;
+  margin-left: 57px;
+  line-height: 1;
+}
+
+nav a.active {
+  border-bottom: 1px solid black;
+}
