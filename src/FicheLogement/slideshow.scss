@@ -1,0 +1,21 @@
+.slideshow {
+  position: relative;
+  .iconleft {
+    position: absolute;
+    top: 50%;
+    left: 23px;
+  }
+  .iconright {
+    position: absolute;
+    top: 50%;
+    right: 23px;
+  }
+  figcaption {
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+  }
+  .nodisplay {
+    display: none
+  }
+}
